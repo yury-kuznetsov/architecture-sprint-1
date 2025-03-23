@@ -49,3 +49,7 @@
       index.ts
     module-federation.config.ts
 ```
+
+
+Второе задание:
+https://drive.google.com/file/d/1uoZ8paQ-v_9KZYzvNhtzsCwaWkOvUM51/view
