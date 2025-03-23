@@ -1,0 +1,55 @@
+```
+/frontend/microfrontend
+  /auth
+    /src
+      /components
+        Login.js
+        Register.js
+      /styles
+        /auth-form
+        /login
+      index.ts
+    /utils
+      auth.js
+    module-federation.config.ts
+  /card
+    /src
+      /components
+        Card.js
+        ImagePopup.js
+        InfoPopup.js
+      /styles
+        /card
+      index.ts
+    module-federation.config.ts
+  /host
+    /src
+      /components
+        AddPlacePopup.js
+        App.js
+        Footer.js
+        Header.js
+        PopupWithForm.js
+        ProtectedRoute.js
+      /styles
+        /content
+        /footer
+        /header
+        /page
+        /popup
+      index.ts
+    module-federation.config.ts
+  /profile
+    /src
+      /components
+        EditAvatarPopup.js
+        EditProfilePopup.js
+      /styles
+        /profile
+      index.ts
+    module-federation.config.ts
+```
+
+
+Второе задание:
+https://drive.google.com/file/d/1uoZ8paQ-v_9KZYzvNhtzsCwaWkOvUM51/view
